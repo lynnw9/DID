@@ -18,12 +18,14 @@
   "claim": {
     "relationship": "me",
     "alternate-name": "lynnw9",
-    "sameAs": []
+    "sameAs": [
+      "lynne.wang9@gmaill.com"
+    ]
   },
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
-    "created": "2018-03-29T22:27:08Z",
+    "created": "2018-03-29T22:32:58Z",
     "creator": "ecdsa-koblitz-pubkey:020d79074ef137d4f338c2e6bef2a49c618109eccf1cd01ccc3286634789baef4b",
-    "signatureValue": "H+20bbgf36gPTytkdGOALYp5P8EqOk0w5G+4n4g+NbPUdOCNOrwq0JtmcoHvcDkOT5lT6E2PvfVeX8Nzx4NgxXU="
+    "signatureValue": "IDfb6X2Lp71FuRLUjnAIBfgE4oW6pwWo+WbOsBdlVbSaehZdGCcc2w2s79M08BR73sk0L3w8bYVjo/a5FsaPRKg="
   }
 }
