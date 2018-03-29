@@ -1,7 +1,6 @@
 {
   "@context": [
     "http://schema.org/",
-    "https://w3id.org/security/v1",
     "https://w3id.org/security/v1"
   ],
   "name": "LynnW9",
