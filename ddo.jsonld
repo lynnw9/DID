@@ -14,13 +14,7 @@
     "Identity",
     "Person"
   ],
-  "claim": {
-    "relationship": "me",
-    "alternate-name": "lynnw9",
-    "sameAs": [
-      "lynne.wang9@gmaill.com"
-    ]
-  },
+ 
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
     "created": "2018-03-29T22:32:58Z",
