@@ -1,0 +1,14 @@
+{
+  "@context": [
+    "http://schema.org/",
+    "https://w3id.org/security/v1"
+  ],
+  "@type": "Person",
+  "name": "LynnW9",
+  "signature": {
+    "type": "EcdsaKoblitzSignature2016",
+    "created": "2018-03-29T22:07:21Z",
+    "creator": "ecdsa-koblitz-pubkey:020d79074ef137d4f338c2e6bef2a49c618109eccf1cd01ccc3286634789baef4b",
+    "signatureValue": "IHVq1TVDaINGIvbeg/gg7ZN7e3FxrMElajJNFjn9K5q2CCfvnurXxW+ELNEOqZvJoeRp+ooYGMb+U4yXfahxHps="
+  }
+}
