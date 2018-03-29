@@ -5,6 +5,9 @@
   ],
   "@type": "Person",
   "name": "LynnW9",
+  "issuer": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#did-transaction-key",
+  "issued": "2018-03-28",
+  "label": "lynnw9-self-signed-claim",
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
     "created": "2018-03-29T22:07:21Z",
