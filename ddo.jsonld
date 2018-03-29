@@ -4,8 +4,7 @@
     "https://w3id.org/security/v1"
   ],
   "name": "LynnW9",
-  "issuer": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#did-transaction-key",
-  "issued": "2018-03-28",
+  
   "label": "lynnw9-self-signed-claim",
   "didDocument": {},
   "id": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#lynnw9-self-signed-claim",
