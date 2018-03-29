@@ -7,10 +7,10 @@
   "name": "LynnW9",
   "signature": {
     "type": "LinkedDataSignature2015",
-    "created": "2018-03-29T21:35:17Z",
-    "creator": "https://example.com/jdoe/keys/1",
+    "created": "2018-03-29T20:59:24Z",
+    "creator": "rsa-pubkey: MIGeMA0GCSqGSIb3DQEBAQUAA4GMADCBiAKBgGSwICaP3tb+tz3W/7pq/IzQsjC8ylVLLpa5UXPtoJAMvGzFS4VSoUoxT5N5fHautMyAElJ+SjebqN1W3GsV/SvJlnRfICuCsVtPEOsf1f6w8Fz95NdJuWAtA8zee2QZZh4eJK+fjzDixLJ1FO1IM0pXry5j6qSF+19GdmhJT0+3AgMBAAE=",
     "domain": "json-ld.org",
-    "nonce": "9f678d13",
-    "signatureValue": "mDx9/SK/jSvsry1aEEYZPq0Jwt2afaBA6YdXsQ50KIwXon54EnHvID+5sVSCidMOVJD/VEhp9u6ZueTNyaE7qJTMa/Pj3Blredue7jtIRKDN19YZMlijCtE49+65brFIsLIH1khodJ1nQBX2R1Nj+CpaSfDW6GrPja1SBz99zIQ="
+    "nonce": "98d224d1",
+    "signatureValue": "aOf3I00zaoTZ4eiRmrsofr5IL40d+26G70b+AyhmfQHOACap4I3YKSvuGxsuwVSgb57UGcmi3UtcnngI/ZJOwda3Sg2A2ufRGKahbIXOj+reu+pzpwG+8u9Y3FHP7DJ+mfCDHpIBKG+XUhrF1rTeD80EVA9QdUL+wCetHsTgI5s="
   }
 }
