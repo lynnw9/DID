@@ -8,7 +8,7 @@
   "signature": {
     "type": "LinkedDataSignature2015",
     "created": "2018-03-29T20:59:24Z",
-    "creator": "https://github.com/lynnw9/DID/publickey.pem",
+    "creator": "https://raw.githubusercontent.com/lynnw9/DID/master/ddo.jsonld",
     "domain": "json-ld.org",
     "nonce": "98d224d1",
     "signatureValue": "aOf3I00zaoTZ4eiRmrsofr5IL40d+26G70b+AyhmfQHOACap4I3YKSvuGxsuwVSgb57UGcmi3UtcnngI/ZJOwda3Sg2A2ufRGKahbIXOj+reu+pzpwG+8u9Y3FHP7DJ+mfCDHpIBKG+XUhrF1rTeD80EVA9QdUL+wCetHsTgI5s="
