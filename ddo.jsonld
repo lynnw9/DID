@@ -7,7 +7,7 @@
   
   "label": "lynnw9-self-signed-claim",
   "didDocument": {},
-  "id": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#lynnw9-self-signed-claim",
+ 
   "type": [
     "Credential",
     "Identity",
