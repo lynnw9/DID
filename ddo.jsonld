@@ -1,17 +1,29 @@
 {
   "@context": [
     "http://schema.org/",
+    "https://w3id.org/security/v1",
     "https://w3id.org/security/v1"
   ],
-  "@type": "Person",
   "name": "LynnW9",
   "issuer": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#did-transaction-key",
   "issued": "2018-03-28",
   "label": "lynnw9-self-signed-claim",
+  "didDocument": {},
+  "id": "did:btcr:txtest1-xvek-wzy9-qqgw-8d3y/0#lynnw9-self-signed-claim",
+  "type": [
+    "Credential",
+    "Identity",
+    "Person"
+  ],
+  "claim": {
+    "relationship": "me",
+    "alternate-name": "lynnw9",
+    "sameAs": []
+  },
   "signature": {
     "type": "EcdsaKoblitzSignature2016",
-    "created": "2018-03-29T22:07:21Z",
+    "created": "2018-03-29T22:27:08Z",
     "creator": "ecdsa-koblitz-pubkey:020d79074ef137d4f338c2e6bef2a49c618109eccf1cd01ccc3286634789baef4b",
-    "signatureValue": "IHVq1TVDaINGIvbeg/gg7ZN7e3FxrMElajJNFjn9K5q2CCfvnurXxW+ELNEOqZvJoeRp+ooYGMb+U4yXfahxHps="
+    "signatureValue": "H+20bbgf36gPTytkdGOALYp5P8EqOk0w5G+4n4g+NbPUdOCNOrwq0JtmcoHvcDkOT5lT6E2PvfVeX8Nzx4NgxXU="
   }
 }
